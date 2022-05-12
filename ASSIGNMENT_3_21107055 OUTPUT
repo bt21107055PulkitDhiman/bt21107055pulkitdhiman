@@ -1,0 +1,147 @@
+Enter any number: 547
+Binary equivalent of  547 is:  0b1000100011 
+
+Welcome to this interactive python calculator
+Enter the expressions by using only these operators (+,-,*,/,**,%,//):5489+455
+The result is  5944
+
+
+Result of part (a) is:  35
+
+
+Choose the value of n
+The value of n taken is: 4
+The result of part (b) is:  6.0
+
+
+Choose the value of r
+The value of radius taken in: 6
+The result of part (c) is:  452.3893421169302
+Enter the value of r: 5
+Enter the value of angle a: 5
+Enter the value of angle b: 7
+The result of part (d) is:  1.600149409208179
+
+
+enter the value of x1:6
+enter the value of x2:6
+enter the value of y1:9
+enter the value of y2:1
+The result of part (e) is:  NOT DEFINED
+
+
+In the range(5): 
+0
+1
+2
+3
+4
+In the range(3, 10): 
+3
+4
+5
+6
+7
+8
+9
+
+
+In the range(4, 13, 3): 
+4
+7
+10
+
+
+In the range(15 ,5, -2): 
+15
+13
+11
+9
+7
+
+
+In the range(5, 3): 
+
+
+This program computes molecular weight of
+carbohydrates, for this we need to enter number of
+atoms of hydrogen, carbon and oxygen.
+Enter the number of hydrogen atoms: 8
+Enter the number of carbon atoms:4
+Enter the number of oxygen atoms:6
+The weight of carbohydrate:  152.10271999999998
+
+============ RESTART: C:/Users/Pulkit/Desktop/ASSIGNMENT 3 OUTPUT.py ===========
+Enter any number: 45
+Binary equivalent of  45 is:  0b101101 
+
+Welcome to this interactive python calculator
+Enter the expressions by using only these operators (+,-,*,/,**,%,//):85+42
+The result is  127
+
+
+Result of part (a) is:  35
+
+
+Choose the value of n
+The value of n taken is: 9
+The result of part (b) is:  36.0
+
+
+Choose the value of r
+The value of radius taken in: 4
+The result of part (c) is:  201.06192982974676
+Enter the value of r: 5
+Enter the value of angle a: 5
+Enter the value of angle b: 5
+The result of part (d) is:  2.2360679774997894
+
+
+enter the value of x1:9
+enter the value of x2:9
+enter the value of y1:4
+enter the value of y2:2
+The result of part (e) is:  NOT DEFINED
+
+
+In the range(5): 
+0
+1
+2
+3
+4
+In the range(3, 10): 
+3
+4
+5
+6
+7
+8
+9
+
+
+In the range(4, 13, 3): 
+4
+7
+10
+
+
+In the range(15 ,5, -2): 
+15
+13
+11
+9
+7
+
+
+In the range(5, 3): 
+
+
+This program computes molecular weight of
+carbohydrates, for this we need to enter number of
+atoms of hydrogen, carbon and oxygen.
+Enter the number of hydrogen atoms: 5
+Enter the number of carbon atoms:16
+Enter the number of oxygen atoms:5
+The weight of carbohydrate:  277.2079
+
