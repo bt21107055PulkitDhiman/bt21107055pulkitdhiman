@@ -2,94 +2,25 @@
 
 #Enter a decimal number and get its binary equivalent
 
-#METHOD--> 1
+
 num = int(input("Enter any number: "))
 
 result = bin(num)
 
 print("Binary equivalent of ",num,"is: ", result,"\n")
 
-#METHOD--> 2
-decimal_number = int(input("Enter a decimal number: "))
-number_bin = []
-while decimal_number > 0:
-    bin_digit = decimal_number%2
-    number_bin.append(bin_digit)
-    decimal_number = decimal_number//2
-number_bin.reverse()
-print("The binary equivalent is:")
-for i in number_bin:
-    print(i, end=" ")
-print("\n")
+
 
 #Question-2
-#METHOD--> 1
+
 print("Welcome to this interactive python calculator")
 expression = input("Enter the expressions by using only these operators (+,-,*,/,**,%,//):")
 print("The result is ", end=" ")
 print(eval(expression))
 print("\n")
 
-#METHOD--> 2
-print("This calculator works for 4 numbers only:)\n\n")
-num1 = int(input("Enter number: "))
-op1 = str(input("Enter operator: "))
-num2 = int(input("Enter number: "))
-op2 = str(input("Enter operator: "))
-num3 = int(input("Enter number: "))
-op3 = str(input("Enter operator: "))
-num4 = int(input("Enter number: "))
-
-string = '''Your expression:
-((<num1> <op1> <num2>) <op2>(<num3>)) <op3><num4> '''
-print(string.replace("<num1>",str(num1)).replace("<op1>",str(op1)).replace("<num2>",str(num2)).replace("<op2>",str(op2)).replace("<num3>",str(num3)).replace("<op3>",str(op3)).replace("<num4>",str(num4)))
 
 
-#Arithmatic Operators--> +,-,*,\
-
-r1= 0
-r2= 0
-r3= 0
-if op1 == "+":
-    r1 = num1+num2
-    
-elif op1 == "-":
-    r1 = num1-num2
-
-elif op1 == "*":
-    r1 = num1*num2
-    
-elif op1 == "/":
-    r1 = num1/num2
-    
-
-
-if op2 == "+":
-    r2 = r1+num3
-    
-elif op2 == "-":
-    r2 = r1-num3
-
-elif op2 == "*":
-    r2 = r1*num3
-    
-elif op2 == "/":
-    r2 = r1/num3
-
-    
-
-if op3 == "+":
-    r3 = r2+num4
-    print("Output of the given expression is: ",r3)
-elif op3 == "-":
-    r3 = r2-num4
-    print("Output of the given expression is: ",r3)
-elif op3 == "*":
-    r3 = r2*num4
-    print("Output of the given expression is: ",r3)
-elif op3 == "/":
-    r3 = r2/num4
-    print("Output of the given expression is: ",r3)
 
 
 #Question-3
